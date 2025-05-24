@@ -35,7 +35,7 @@
 #ifndef __MGA_DRM_H__
 #define __MGA_DRM_H__
 
-#include "drm.h"
+#include <drm/drm.h>
 
 #if defined(__cplusplus)
 extern "C" {

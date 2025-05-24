@@ -38,11 +38,10 @@
 #include <drm/drm_device.h>
 #include <drm/drm_file.h>
 #include <drm/drm_ioctl.h>
-#include <drm/drm_legacy.h>
 #include <drm/drm_print.h>
 #include <drm/drm_sarea.h>
 #include <drm/drm_vblank.h>
-#include <drm/mga_drm.h>
+#include "mga_drm.h"
 
 /* General customization:
  */
